@@ -1,4 +1,4 @@
-Django>=1.7.0
+Django>=4.2.27
 six==1.10.0
-sqlparse==0.1.18
+sqlparse==0.5.4
 unicodecsv==0.14.1
